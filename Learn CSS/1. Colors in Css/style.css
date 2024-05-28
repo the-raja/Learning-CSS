@@ -1,0 +1,15 @@
+/* colors.co for colors */
+
+body {
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+    background: #ffefd5;
+    color: rgb(0,0,458);
+}
+
+p{
+    color: rgba(0, 0, 255, 1); /* a for alpha, transparancy 0 to 1 percent */
+
+    color: #140534ef; /*hexadecimal color coding " F IS HIGHEST " */
+}
